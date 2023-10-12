@@ -1,0 +1,104 @@
+.discount-icon {
+  color: #bb0000;
+}
+.heart-icon {
+  font-size: 18px !important;
+
+  overflow: hidden !important;
+  color: red !important;
+  overflow: hidden !important;
+  &:hover {
+    color: #2fdb00 !important;
+  }
+}
+.basket-icon {
+  font-size: 18px !important;
+  color: #2fdb00 !important;
+}
+.share-icon {
+  font-size: 18px !important;
+  color: #2fdb00 !important;
+}
+.product-price {
+  font-size: 20px !important;
+}
+
+.product_btn {
+  border-radius: 25px;
+  padding: 8px 20px;
+  font-size: 18px;
+  font-weight: bold;
+  background-color: #6cc32e;
+  color: #fff;
+  transition: all 0.3s ease;
+}
+
+.product_btn:hover {
+  background-color: #2fdb00;
+  transform: translateY(-2px);
+}
+.counter {
+  display: flex;
+  flex-direction: row;
+}
+
+.productContainer {
+  padding: 50px 90px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+  .card-body{
+    width: 300px;
+    height: 400px;
+    border: 1px solid #6cc32e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 50px;
+    img{
+      width: 200px;
+      height: 200px;
+      object-fit: cover;
+    }
+    h4{
+      font-size: 24px;
+      margin-top: 20px;
+      font-weight: 400;
+    }
+    h5{
+      font-weight: 400;
+      margin-top: 20px;
+      font-size: 18px;
+    }
+    .btnCont{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-top: 10px;
+
+      .heartButton{
+
+        width: 50px;
+        height: 40px;
+        border: 1px solid #6cc32e;
+        margin: 0 auto;
+        line-height: 40px;
+        border-radius: 10px;
+        cursor: pointer;
+      }
+      .basketButton{
+        width: 90px;
+        height: 40px;
+        background-color: #6cc32e;
+        color: #fff;
+        margin: 0 auto;
+        line-height: 40px;
+        border-radius: 10px;
+        margin-left: 50px;
+        font-size: 15px;
+      }
+    }
+  }
+}

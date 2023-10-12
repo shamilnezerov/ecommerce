@@ -1,0 +1,21 @@
+
+.partners {
+
+  margin-bottom: 100px;
+  h1{
+   font-size: 25px;
+		font-weight: 600;
+  }
+  .imgContainer {
+    justify-content: space-between;
+    img {
+      height: 100px;
+      width: 175px;
+      padding: 0 15px;
+      object-fit: fill;
+    }
+  }
+}
+
+
+

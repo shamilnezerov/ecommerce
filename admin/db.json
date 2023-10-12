@@ -1,0 +1,259 @@
+{
+  "sliderimages": [
+    {
+      "image": "https://arazmarket.az/site/assets/files/4194/7.370x370.jpg",
+      "id": 9
+    },
+    {
+      "image": "https://arazmarket.az/site/assets/files/4161/sastali.370x370.webp",
+      "id": 10
+    },
+    {
+      "image": "https://arazmarket.az/site/assets/files/4161/cnnt-qovyajya-kolbasasi.370x370.webp",
+      "id": 11
+    }
+  ],
+  "blog": [
+    {
+      "title": "“Çarxı çevir, endirim qazan!”",
+      "image": "https://arazmarket.az/site/assets/files/5910/download_5.770x0.webp",
+      "text": "“Araz”dan yepyeni kampaniya! \n",
+      "date": "10.10.2023",
+      "id": 3
+    },
+    {
+      "title": "Bu yay sərin dondurma ləzzəti ilə şansın ərimədən qazan!",
+      "image": "https://arazmarket.az/site/assets/files/5874/1104x840-min.770x0.webp",
+      "text": "İyunun 21-dən iyulun 31-nə qədər “Araz” və “Spar” marketlərdən “Araz” Müştəri kartı ilə 5 AZN dəyərində “Millennium” dondurmaları al:",
+      "date": "10.10.2023",
+      "id": 4
+    },
+    {
+      "title": "Növbəti “Tullantıları tinglərə dəyiş”",
+      "image": "https://arazmarket.az/site/assets/files/5843/1.770x0.webp",
+      "text": "Ekologiya və Təbii Sərvətlər Nazirliyi və \"Araz\" supermarketlər şəbəkəsinin birgə təşkilatçılığı ilə ",
+      "date": "10.10.2023",
+      "id": 5
+    }
+  ],
+  "blogdetail": [
+    {
+      "title": "“Çarxı çevir, endirim qazan!”",
+      "image": "https://arazmarket.az/site/assets/files/5910/download_5.770x0.webp",
+      "text": "“Araz”dan yepyeni kampaniya! \n\n7 avqust tarixindən “Araz” mobil tətbiq üzərindən “Çarxı çevir, endirim qazan!” kampaniyası başlayır. Kampaniyadan yararlanmaq üçün:\n\n- Araz tətbiqdə Endirim Çarxını çevirin və 8 seçilmiş məhsuldan birini endirimli qiymətlə əldə edin.\n\n- Hər gün tətbiq üzərindən çarxı 1 dəfə çevirmək şansınız var. Şansınıza düşən məhsul kuponunu kassaya təqdim edərək endirimdən faydalana bilərsiniz.\n\nQeyd edək ki, endirim kuponu 24 saat aktivdir. Çarxı yenidən çevirə bilməyiniz üçün öncəki oyunun üzərindən 24 saat keçməyi mütləqdir.\n\nKampaniya 3 sentyabr tarixlərinədək yalnız mobil tətbiq üzərindən keçərlidir.\n\nHər birinizə bol endirimli alış-veriş arzu edirik! ",
+      "date": "10.10.2023",
+      "id": 3
+    },
+    {
+      "title": "Bu yay sərin dondurma ləzzəti ilə şansın ərimədən qazan!",
+      "image": "https://arazmarket.az/site/assets/files/5874/1104x840-min.770x0.webp",
+      "text": "İyunun 21-dən iyulun 31-nə qədər “Araz” və “Spar” marketlərdən “Araz” Müştəri kartı ilə 5 AZN dəyərində “Millennium” dondurmaları al:",
+      "date": "10.10.2023",
+      "id": 4
+    }
+  ],
+  "title": [
+    {
+      "title": "<p><strong>Rifahınız </strong></p><p><strong>Məqsədimizdir!</strong></p><p>Hər zaman xidmətinizdəyik!</p>",
+      "id": 1
+    }
+  ],
+  "vision": [
+    {
+      "vision": "<p>Hər kəsin güvəndiyi, sevərək alış-veriş etmək və işləmək istədiyi müasir pərakəndəçi olmaq.</p>",
+      "id": 1
+    }
+  ],
+  "mission": [
+    {
+      "mission": "<p>“Araz” supermarketlər şəbəkəsinin əsas prinsipi olan uyğun qiymət və geniş çeşidlə qida və qeyri-qida məhsullarını istehlakçılara çatdırmaqdı</p>",
+      "id": 1
+    }
+  ],
+  "aboutstore": [
+    {
+      "aboutstore": "<p>XXI-ci ilin birinci rübündə təsərrüfat, əsasən də Bakıda mövcud olan pərəkəndə satış bazarında əsrdən çox boşluqlar hiss olunurdu. \"Veysəloğlu\" distribütor şirkətinin şirkətləri Aydın Veysəloğlu, İlqar Talıbov və&nbsp;Bəxtiyar Allahverdi 2011-ci il mayın 7-də pərakəndə sektorda yaranan məqsədəuyğun olaraq \"Araz\" supermarketlərinin şəbəkəsini qurmağa qərar verdilər.</p>",
+      "id": 1
+    }
+  ],
+  "discountnews": [
+    {
+      "discountnews": "<p><br></p>",
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "name": "Un və Qənnadı məhsulları",
+      "visible": false,
+      "id": 2
+    },
+    {
+      "name": "Süd məhsulları və Yumurtalar",
+      "visible": false,
+      "id": 3
+    },
+    {
+      "name": "Meyvə və Tərəvəz",
+      "visible": false,
+      "id": 4
+    },
+    {
+      "name": "Körpə və Uşaqlar",
+      "visible": false,
+      "id": 5
+    },
+    {
+      "name": "Baqqaliyə",
+      "visible": false,
+      "id": 6
+    },
+    {
+      "name": "İri məişət texnikası",
+      "visible": false,
+      "id": 7
+    },
+    {
+      "name": "Ev təmizləyici vasitələri",
+      "visible": false,
+      "id": 8
+    },
+    {
+      "name": "Şirniyyat",
+      "visible": false,
+      "id": 9
+    },
+    {
+      "name": "Məişət texnikası",
+      "visible": false,
+      "id": 10
+    }
+  ],
+  "tasks": [],
+  "companies": [],
+  "products": [
+    {
+      "id": 18,
+      "img": "https://bazarstore.az/cdn/shop/products/30189846_f2f04396-4fd8-4ff7-89b8-44d649f08f86.jpg?v=1693656469",
+      "name": "Nestle",
+      "price": "2",
+      "oldPrice": "5",
+      "category": "Un və qənnadı məhsulları"
+    },
+    {
+      "name": "Çiyələk",
+      "price": "5",
+      "oldPrice": "5",
+      "img": "https://static.ticimax.cloud/47002/uploads/urunresimleri/buyuk/cilek-tohumu-5-1c0a.png",
+      "category": "Meyvə və Tərəvəz",
+      "id": 19
+    },
+    {
+      "name": "Paltaryuyan",
+      "price": "685",
+      "oldPrice": "5",
+      "img": "https://www.hamisiburada.az/storage/app/public/product/2022-01-23-61ed995c65380.png",
+      "category": "Məişət texnikası",
+      "id": 20
+    },
+    {
+      "name": "Alma",
+      "price": "10",
+      "img": "https://avand.az/public/images/530702_1626500028_ALMA_YA%C5%9EIL_(QRANSM%C4%B0T).jpg",
+      "category": "Meyvə və Tərəvəz",
+      "id": 21
+    },
+    {
+      "name": "Banan",
+      "price": "2.40",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwB8IZg5c6n2f3qD_3hw2lhNAPojUBcSQqKI1hb7GePw&s",
+      "category": "Meyvə və Tərəvəz",
+      "id": 22
+    },
+    {
+      "name": "Kartof",
+      "price": "1",
+      "img": "https://bazarstore.az/cdn/shop/products/30036067_7ec491df-2bdc-4567-a1ad-8c91e58c78f7.jpg?v=1693896443",
+      "category": "Meyvə və Tərəvəz",
+      "id": 23
+    },
+    {
+      "name": "Soyuducu",
+      "price": "1200",
+      "img": "https://www.bakuelectronics.az/assets/images/products/130129/lg-gr-c559hlcl-1.jpg",
+      "category": "İri məişət texnikası",
+      "id": 24
+    },
+    {
+      "name": "ECOHOME",
+      "price": "8.59",
+      "img": "https://img.viplife.az/Images/Products/540017/main.jpg",
+      "category": "Ev təmizləyici vasitələri",
+      "id": 25
+    },
+    {
+      "name": "PAMPERS ACTİVE",
+      "price": "11.49",
+      "img": "https://bazarstore.az/cdn/shop/products/30182136_57ed4a30-7d18-445c-a84a-e4a5b1f83fbf.jpg?v=1693640194",
+      "category": "",
+      "id": 26
+    }
+  ],
+  "users": [],
+  "order": [
+    {
+      "infos": {
+        "fullName": "Shamil Nazarov",
+        "email": "shamil.nezerov@gmail.com",
+        "phone": "+994703211221",
+        "card": "1234567891234567",
+        "region": "2",
+        "address": "efsdfsdf",
+        "note": "sdfdsf"
+      },
+      "products": [
+        {
+          "name": "Çiyələk",
+          "price": "5",
+          "oldPrice": "5",
+          "img": "https://static.ticimax.cloud/47002/uploads/urunresimleri/buyuk/cilek-tohumu-5-1c0a.png",
+          "category": "Meyvə və Tərəvəz",
+          "id": 19,
+          "count": 1
+        }
+      ],
+      "id": 1
+    },
+    {
+      "infos": {
+        "fullName": "Lamie",
+        "email": "Lamie@gmail.com",
+        "phone": "+994705658654",
+        "card": "1234567891234567",
+        "region": "0",
+        "address": "aaaaaaaaaaaaaa",
+        "note": "sssssssssss"
+      },
+      "products": [
+        {
+          "id": 18,
+          "img": "https://bazarstore.az/cdn/shop/products/30189846_f2f04396-4fd8-4ff7-89b8-44d649f08f86.jpg?v=1693656469",
+          "name": "Nestle",
+          "price": "2",
+          "oldPrice": "5",
+          "category": "Un və qənnadı məhsulları",
+          "count": 5
+        },
+        {
+          "name": "Soyuducu",
+          "price": "1200",
+          "img": "https://www.bakuelectronics.az/assets/images/products/130129/lg-gr-c559hlcl-1.jpg",
+          "category": "İri məişət texnikası",
+          "id": 24,
+          "count": 1
+        }
+      ],
+      "id": 2
+    }
+  ]
+}
